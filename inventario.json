@@ -1,0 +1,17 @@
+{
+    "items": {
+        "CocaCola": {
+            "cantidad": 7,
+            "precio": 1.5
+        },
+        "Fanta": {
+            "cantidad": 8,
+            "precio": 1.4
+        },
+        "Monster": {
+            "cantidad": 12,
+            "precio": 1.8
+        }
+    },
+    "dinero": 1.5
+}
